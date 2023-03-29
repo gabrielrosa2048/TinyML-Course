@@ -1,2 +1,1 @@
-"# TinyML-Course" 
 # TinyML-Course
